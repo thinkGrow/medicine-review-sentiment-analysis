@@ -5,7 +5,7 @@
   
    - Data pre-processing (feature extraction, removing stop words, punctuations, stemming, lemmatization etc.). 
  
-   - Run Logistic Regression and AdaBoost.  
+   - Run models. 
    
    - Conclude and visualize data (accuracy, confusion matrix etc.).
    
